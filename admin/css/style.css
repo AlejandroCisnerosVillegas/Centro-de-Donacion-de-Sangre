@@ -1,0 +1,126 @@
+body {
+    color: #333;
+  }
+  #sidebar {
+    position: relative;
+    margin-top: -20px;
+    background-color: #8c1515;
+  }
+  #content {
+    position: relative;
+    margin-left: 210px;
+  }
+  @media screen and (max-width: 600px) {
+    #content {
+      position: relative;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+  .block-anchor {
+    color: #8c1515;
+    cursor: pointer;
+  }
+  .panel-body {
+    background-color: #f2dede;
+  }
+  .panel-info.bk-primary {
+    background-color: #cc2b2b;
+    color: #fff;
+  }
+  .panel-info.bk-primary .btn-danger {
+    background-color: #960b0b;
+    border-color: #960b0b;
+  }
+  .panel-info.bk-primary .btn-danger:hover {
+    background-color: #7a0707;
+    border-color: #7a0707;
+  }
+  .navbar {
+    background-color: #8c1515 !important;
+    padding: 10px 10px;
+    color: #fff;
+  }
+  .navbar a {
+    float: left;
+    color: #fff !important;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 25px;
+  }
+  .navbar-brand {
+    font-size: 25px;
+    font-weight: bold;
+    color: #e31818 !important;
+  }
+  .navbar a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .navbar-right {
+    float: none;
+  }
+  #qq:hover {
+    background-color: #d21f1f !important;
+    border-radius: 5px;
+  }
+  .dropdown-menu {
+    background-color: #ff6666 !important;
+  }
+  .dropdown-menu li a {
+    color: #b30000 !important;
+  }
+  .dropdown-menu li a:hover {
+    color: #800000 !important;
+  }
+  .sidebar {
+    margin: 0;
+    padding: 0;
+    width: 210px;
+    background-color: #8c1515;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+  }
+  .sidebar a {
+    display: block;
+    color: white;
+    padding: 16px;
+    text-decoration: none;
+  }
+  .sidebar a:hover:not(.active) {
+    background-color: #cc2b2b;
+    color: white;
+  }
+  div.content {
+    margin-left: 200px;
+    padding: 1px 16px;
+    height: 1000px;
+  }
+  @media screen and (max-width: 700px) {
+    .sidebar {
+      width: 100%;
+      height: auto;
+      position: relative;
+    }
+    .sidebar a {
+      float: left;
+    }
+    div.content {
+      margin-left: 0;
+    }
+  }
+  a.act {
+    background: linear-gradient(to right, #ff6666 0%, #ff9999 100%);
+    color: black;
+    border-radius: 10px;
+  }
+  @media screen and (max-width: 400px) {
+    .sidebar a {
+      text-align: center;
+      float: none;
+    }
+  }  
