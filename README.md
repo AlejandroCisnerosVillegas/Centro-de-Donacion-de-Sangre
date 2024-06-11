@@ -1,2 +1,3 @@
-# Centro-de-Donacion-de-Sangre
-El proyecto Centro de Donación de Sangre fue desarrollado con HTML, CSS, JavaScript, PHP y MySQL. Promueve la donación de sangre y facilita el proceso tanto para donantes como para el personal administrativo. Proporciona información detallada, facilita el registro de donantes, y ofrece herramientas de gestión eficientes para supervisar.
+# Centro de Donación de Sangre
+## _Área: Proyectos_
+El "Centro de Donación de Sangre" es un proyecto web diseñado para promover y facilitar la donación de sangre con el fin de abastecer a hospitales y ayudar a salvar vidas. La plataforma consta de dos partes: una dirigida al público general interesado en donar sangre y otra para el personal administrativo del centro.
