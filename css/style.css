@@ -1,77 +1,70 @@
-.header {
-  overflow: hidden;
-  background-color: #E74C3C;
-  top: 0;
-  width: 100%;
-  padding: 10px 5px;
-  color: #FFF;
+.navbar{
+    margin-bottom: 0px;
 }
-.header a {
-  float: left;
-  color: #FFF;
-  text-align: center;
-  padding: 12px;
-  text-decoration: none;
-  font-size: 18px;
-  line-height: 25px;
-  border-radius: 4px;
-  font-weight: bold;
+
+#bannerImage{
+    padding-top:75px;
+    padding-bottom:50px;
+    margin-bottom: 20px;
+    text-align:center;
+    color:#f8f8f8;
+    background:url(../img/homepage.png);
+    background-size:cover;
 }
-.header a.logo {
-  font-size: 25px;
-  font-weight: bold;
-  color: #FFF;
+
+#bannerContent{
+    position:relative;
+    padding-top:6%;
+    padding-bottom:6%;
+    margin-top:12%;
+    margin-bottom:12%;
+    background-color:rgba(0,0,0,0.7);
+    max-width:660px;
 }
-.header a:hover {
-  background-color: #C0392B;
-  color: #000;
+
+footer{
+    background-color:#101010;
+    color:#9d9d9d;
+    font-size:14px;
+    font-weight:bold;
+    padding:10px;    
+    bottom:0;
 }
-.header-right {
-  float: right;
+
+html { 
+    min-height:100%;
+    position:relative;    
+} 
+
+.footer { 
+    position: absolute; 
+    bottom:0; 
+    right:0;
+    left:0;
 }
-@media screen and (max-width: 500px) {
-  .header a {
-    float: none;
-    display: block;
-    text-align: left;
-  }
-  .header-right {
-    float: none;
-  }
+
+@media (min-width:320px){
+    #autoResize{
+        font-size:12px;
+    }
 }
-a.act {
-  background: linear-gradient(to right, #FD746C 0%, #FF9068 100%);
-  color: #FFF;
-  border-radius: 30px;
+@media (min-width:481px){
+    #autoResize{
+        font-size:16px;
+    }
 }
-a.logo2 {
-  background-color: #E74C3C;
+@media (min-width:641px){
+    #autoResize{
+        font-size:18px;
+    }
 }
-#footer {
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  height: 75px;
-  background-color: #2C3E50;
-  color: #FFFFFF;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
+@media (min-width:961px){
+    #autoResize{
+        font-size:20px;
+    }
 }
-.ticker-container {
-  background-color: #D32F2F;
-  color: #FFFFFF;
-  padding: 10px;
-}
-.ticker {
-  font-size: 16px;
-  font-weight: bold;
-}
-.ticker-item {
-  padding-right: 20px;
-}
-.carousel-control-custom {
-  color: black;
+@media (min-width:1000px){
+    #autoResize{
+        font-size:26px;
+    }
 }
