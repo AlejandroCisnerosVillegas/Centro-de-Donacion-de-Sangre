@@ -24,9 +24,9 @@ En resumen, el **"Centro de Donación de Sangre"** es una herramienta integral q
   <img src="./image/Readme-04.png" alt="Descripción de la imagen" width="60%">
 </p>
 
-**Consulta la versión preliminar del proyecto aquí (Usuario):** [https://centro-de-donacion-de-sangre-usuario.com](https://www.alejandrovillegas.net/projects/project-05/home.php)
+**Consulta la versión preliminar del proyecto aquí (Usuario):** [https://centro-de-donacion-de-sangre-usuario.com](https://www.alejandrovillegas.dev/projects/project-05/home.php)
 
-**Consulta la versión preliminar del proyecto aquí (Administrador):** [https://centro-de-donacion-de-sangre-administrador.com](https://www.alejandrovillegas.net/projects/project-05/admin/login.php)
+**Consulta la versión preliminar del proyecto aquí (Administrador):** [https://centro-de-donacion-de-sangre-administrador.com](https://www.alejandrovillegas.dev/projects/project-05/admin/login.php)
 
 # 📌 Información del Proyecto
 
@@ -38,7 +38,7 @@ Este proyecto ha sido desarrollado como parte del portafolio de soluciones tecno
 
 - **Fecha de Desarrollo**: 20 de abril de 2024
 
-- **Portafolio de Proyectos**: [www.alejandrovillegas.net](https://www.alejandrovillegas.net/)
+- **Portafolio de Proyectos**: [www.alejandrovillegas.dev](https://www.alejandrovillegas.dev)
 
 # Guía de Instalación y Configuración del Proyecto
 
